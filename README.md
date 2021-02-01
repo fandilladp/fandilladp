@@ -1,4 +1,4 @@
-<p>wellcome to my profile :smile: </p>
+<p>welcome to my profile :smile: </p>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fandilladp&theme=tokyonight)
